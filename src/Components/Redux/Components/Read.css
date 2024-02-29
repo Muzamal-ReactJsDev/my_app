@@ -1,0 +1,18 @@
+.read-css-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.read-css-row{
+  
+}
+.read-css-col{
+    border:1px solid black;
+    margin: 10px;
+}
+.read-css-btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}

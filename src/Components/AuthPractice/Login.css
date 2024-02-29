@@ -1,0 +1,12 @@
+.login-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 30px;
+}
+.registration-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 30px;
+}
